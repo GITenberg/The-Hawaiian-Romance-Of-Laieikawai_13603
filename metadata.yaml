@@ -1,0 +1,31 @@
+_repo: The-Hawaiian-Romance-Of-Laieikawai_13603
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Beckwith, Martha Warren
+    birthdate: 1871
+    deathdate: 1959
+    gutenberg_agent_id: '9554'
+    url: http://www.gutenberg.org/2009/agents/9554
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haleole, S. N.
+    gutenberg_agent_id: '37641'
+    url: http://www.gutenberg.org/2009/agents/37641
+description: ''
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Hawaii'
+- !lcc 'PL'
+title: The Hawaiian Romance Of Laieikawai
+url: http://www.gutenberg.org/ebooks/13603
