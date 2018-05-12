@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '37641'
     url: http://www.gutenberg.org/2009/agents/37641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13603#The-Hawaiian-Romance-Of-Laieikawai
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
 identifiers:
